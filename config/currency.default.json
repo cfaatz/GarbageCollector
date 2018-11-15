@@ -1,0 +1,10 @@
+{
+	"currency_emote": ":qubit:",
+	"currency_name": "qubit",
+	"lang": {
+		"name_capital": "Qubit",
+		"name_plural": "qubits",
+		"name_plural_capital": "Qubits",
+		"name_abbrev": "qbt"
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "name": "garbagecollector",
+  "version": "1.0.0",
+  "description": "An open-source bot for Stack Underflow",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discord.js",
+    "discord",
+    "javascript",
+    "js"
+  ],
+  "author": "Tudedude",
+  "license": "WTFPL",
+  "dependencies": {
+    "bufferutil": "^4.0.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "node-opus": "^0.2.7",
+    "request": "^2.88.0",
+    "sandbox": "^0.8.6",
+    "sqlite3": "^4.0.3",
+    "uglify-js": "^3.4.9"
+  }
+}
